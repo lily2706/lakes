@@ -8,7 +8,7 @@ const LakeMap = () => {
   const [hotels, setHotels] = useState([]);
   const [outerBoundary, setOuterBoundary] = useState(null);
   const [innerBoundary, setInnerBoundary] = useState(null);
-  const [selectedCategory, setSelectedCategory] = useState("lakes"); // Default to lakes
+  const [selectedCategory, setSelectedCategory] = useState("all"); // Default: Show all
 
   useEffect(() => {
     fetch("/data/lakes.json")
@@ -32,6 +32,7 @@ const LakeMap = () => {
       .catch((err) => console.error("Error loading bengaluru-boundary.geojson:", err));
   }, []);
 
+  // Define Marker Icons
   const thickBlueIcon = new L.Icon({
     iconUrl: "/pin-thick-blue.png",
     iconSize: [30, 45],
@@ -84,6 +85,12 @@ const LakeMap = () => {
         borderRadius: "5px",
       }}>
         <button 
+          onClick={() => setSelectedCategory("all")} 
+          style={{ marginRight: "10px", padding: "8px", backgroundColor: selectedCategory === "all" ? "#28a745" : "#ccc", color: "white", border: "none", borderRadius: "5px", cursor: "pointer" }}
+        >
+          Show All
+        </button>
+        <button 
           onClick={() => setSelectedCategory("lakes")} 
           style={{ marginRight: "10px", padding: "8px", backgroundColor: selectedCategory === "lakes" ? "#007bff" : "#ccc", color: "white", border: "none", borderRadius: "5px", cursor: "pointer" }}
         >
@@ -104,8 +111,8 @@ const LakeMap = () => {
         {outerBoundary && <GeoJSON data={outerBoundary} style={outerBoundaryStyle} />}
         {innerBoundary && <GeoJSON data={innerBoundary} style={innerBoundaryStyle} />}
 
-        {/* Render Markers Based on Selection */}
-        {selectedCategory === "lakes" &&
+        {/* Show Lake Markers */}
+        {(selectedCategory === "lakes" || selectedCategory === "all") &&
           lakes.map((lake, index) => {
             const volume = estimateVolume(lake.area);
             return (
@@ -122,7 +129,8 @@ const LakeMap = () => {
           })
         }
 
-        {selectedCategory === "hotels" &&
+        {/* Show Hotel Markers */}
+        {(selectedCategory === "hotels" || selectedCategory === "all") &&
           hotels.map((hotel, index) => (
             <Marker key={`hotel-${index}`} position={[parseFloat(hotel.latitude), parseFloat(hotel.longitude)]} icon={hotelIcon}>
               <Popup>
