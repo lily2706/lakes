@@ -1,5 +1,6 @@
 [
-    {"name": "Lemon Tree Hotel, Whitefield, Bengaluru", "address": "23 EPIP Zone, Whitefield, Bengaluru 560066", "latitude": 12.976358, "longitude": 77.727016},
+   
+    {"name": "Radisson Blu Atria Bengaluru", "address": "1 Palace Road, Bengaluru 560001", "latitude": 12.980235, "longitude": 77.586061},{"name": "Lemon Tree Hotel, Whitefield, Bengaluru", "address": "23 EPIP Zone, Whitefield, Bengaluru 560066", "latitude": 12.976358, "longitude": 77.727016},
     {"name": "Clarks Exotica Convention Resort & Spa", "address": "Swiss Town, Hollywood Junction, Devanahalli Road, Bengaluru 562110", "latitude": 113.2549215, "longitude": 77.6752551},
     {"name": "Ramada Encore by Wyndham Bangalore Domlur", "address": "282-285 Amarjyothi Layout, Domlur, Bengaluru 560071", "latitude": 12.959655, "longitude": 77.64074},
     {"name": "Holiday Inn Express & Suites Bengaluru OMR", "address": "Survey No 35/1A, 35/1B, Outer Ring Road, Bengaluru 560037", "latitude": 12.9627085, "longitude": 77.7006102},
@@ -8,7 +9,6 @@
     {"name": "Davanam Sarovar Portico Suites", "address": "Davanam Plaza, Hosur Main Road, Kormangala, Bengaluru 560068", "latitude": 12.920983, "longitude": 77.620413},
     {"name": "The Pride Hotel", "address": "93 Richmond Road, Bengaluru 560025", "latitude": 12.965505587295707, "longitude": 77.60181709775114},
     {"name": "Royal Orchid Central", "address": "47 Dickenson Road, Manipal Centre, Bengaluru 560042", "latitude": 12.9822365, "longitude": 77.6130773},
-    {"name": "Radisson Blu Atria Bengaluru", "address": "1 Palace Road, Bengaluru 560001", "latitude": 12.980235, "longitude": 77.586061},
     {"name": "Country Inn & Suites by Radisson, Bengaluru Hebbal Road", "address": "Plot No. 514, Outer Ring Road, Hebbal, Bengaluru 560045", "latitude": 13.0419462, "longitude": 77.6130838},
     {"name": "Radisson Hotel Bengaluru City Center", "address": "2 Gangadhar Chetty Road, Ulsoor, Bengaluru 560042", "latitude": 12.9761849, "longitude": 77.6194489},
     {"name": "Goldfinch Hotel Bangalore", "address": "32/3 Crescent Road, High Grounds, Bengaluru 560001", "latitude": 12.985312, "longitude": 77.579487},

@@ -1,0 +1,710 @@
+[
+  {
+    "company": "Newgen",
+    "address": "FF-2, Alpine Arch, Langford Rd, Akkithimana Halli, Bheemanna Garden, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+    "latitude": 12.9695462753896,
+    "longitude": 77.5970601897914
+  },
+  {
+     "company": "Ascendas Property Management Services (India) Pvt Ltd",
+    "address": "3rd Floor, Discoverer Building International tech Park, Bangalore (ItPB) Whitefield Road Bangalore 560 066 Karnataka",
+    "latitude": 12.985822,
+    "longitude": 77.746262
+  },
+  {
+     "company": "IBM Global Service",
+    "address": "4th Floor, Explorer Building, Itpl, Whitefield, Bangalore - 560066",
+    "latitude": 12.985822,
+    "longitude": 77.746263
+  },
+  {
+     "company": "SAP Labs India PVt LtD",
+    "address": "No.2b/2c, Sonnehalli Village, Mahadevapura East taluk, Whitefield, Bangalore - 560066, ",
+    "latitude": 12.993007,
+    "longitude": 77.752632
+  },
+  {
+     "company": "Sonata Software Limited",
+    "address": "No.1/4, APS trust Building, N R Colony, Bull temple Road, Bangalore \u2013 560004",
+    "latitude": 12.936686,
+    "longitude": 77.569125
+  },
+  {
+     "company": "Ascendas Property Management Services (India) Pvt Ltd",
+    "address": "3rd Floor, Discoverer Building International tech Park, Bangalore (ItPB) Whitefield Road Bangalore 560 066 Karnataka",
+    "latitude": 13.0005080383405,
+    "longitude": 77.6805236176427
+  },
+  {
+     "company": "Fiorano Software technologies Pvt Ltd",
+    "address": "International technology Park (ItPL) Inventor, Unit # 1, UGF Whitefield Road  Bangalore-560 066",
+    "latitude": 13.0005080383405,
+    "longitude": 77.6805236176427
+  },
+  {
+     "company": "First Indian Corporation Pvt Ltd",
+    "address": "Level G, Explorer Building, International tech Park (ItPL), Whitefield Road, Bangalore - 560 066,",
+    "latitude": 13.0005080383405,
+    "longitude": 77.6805236176427
+  },
+  {
+     "company": "Genisys Integrating Systems (I) Pvt. Ltd.",
+    "address": "# 33-36, Road No. 4, Export Promotion Industrial Park, Whitefield, Bangalore 560 066",
+    "latitude": 12.9799795666957,
+    "longitude": 77.7231335224606
+  },
+  {
+     "company": "HCL technologies BPO Services Ltd",
+    "address": "Number 123, DSL Software BPO Division Second Floor, Block 2, Shivalaya, EPIP Phase 2 , Whitefield Industrial Area Bangalore - 560 066",
+    "latitude": 12.9811753471472,
+    "longitude": 77.7268683050678
+  },
+  {
+     "company": "IDEB Construction Projects (P) Ltd",
+    "address": "Sigma Soft-tech Park 9th & 10th Floor Delta tower, #7, Whitefield Main Road, Varthur Kodi, Bangalore - 560066",
+    "latitude": 12.9584546466923,
+    "longitude": 77.7439117845869
+  },
+  {
+     "company": "\nCapgemini technology Services India Limited",
+    "address": "158-162(P) & 165(P)- 170(P), EPIP Phase II, Whitefield Bangalore - 560 066",
+    "latitude": 12.9741331467304,
+    "longitude": 77.7177507025754
+  },
+  {
+     "company": "Infinite Computer Solutions (India) Pvt Ltd",
+    "address": "157, EPIP, Phase 2 kundalahalli, Whitefield, Bangalore560066",
+    "latitude": 12.9751261387332,
+    "longitude": 77.715905749864
+  },
+  {
+     "company": "IonIdea Enterprise Solutions Pvt Ltd",
+    "address": "IonIdea - India Operations #38-40, E.P.I.P, Whitefield, Bangalore 560066",
+    "latitude": 12.9776789546804,
+    "longitude": 77.7226758247935
+  },
+  {
+     "company": "Nirvana Business Solutions Pvt Ltd",
+    "address": "Nirvana tower One, Sigma tech Park, 7 Whitefield Main Road, Bangalore 560066",
+    "latitude": 12.9895648304086,
+    "longitude": 77.7483194805511
+  },
+  {
+     "company": "Quality Engineering and Software technologies Pvt Ltd",
+    "address": "QuESt towers No. 55 Whitefield Main Road Mahadevpura Bangalore 560 048",
+    "latitude": 19.1923527885478,
+    "longitude": 72.9739435810819
+  },
+  {
+     "company": "Regus Business Centre (Bangalore) Pvt Ltd",
+    "address": "Level 2, No 148 EPIP Zone Whitefield Bangalore 560066",
+    "latitude": 13.0516914780253,
+    "longitude": 77.6192185493702
+  },
+  {
+     "company": "tarang Software technologies Pvt Ltd",
+    "address": "tarang towers #400/2, Whitefield Road, Hoody, Bangalore - 560048.",
+    "latitude": 12.9929196844673,
+    "longitude": 77.7333316575514
+  },
+  {
+     "company": "tata Consultancy Services Ltd",
+    "address": "tAtA Consultancy Services Abhilash Building, Plot No. 96 EP-IP Industrial Area, Whitefield Road, Bangalore 560 066",
+    "latitude": 12.9764822201924,
+    "longitude": 77.7265425942604
+  },
+  {
+     "company": "tata Elxsi Limited",
+    "address": "Whitefield Road, Mahadevapura Post, Hoody, Bangalore 560 048",
+    "latitude": 12.9922238644815,
+    "longitude": 77.7300221755063
+  },
+  {
+     "company": "tata Elxsi Ltd.",
+    "address": "ItPL Road, Whitefield, Bangalore - 560 048",
+    "latitude": 12.990532756512,
+    "longitude": 77.7249314914291
+  },
+  {
+     "company": "tCS Business transformation Solutions Ltd (tCS-BtS)",
+    "address": "tAtA Consultancy Services Abhilash Building, Plot No. 96 EP-IP Industrial Area, Whitefield.Road,\nBangalore 560 066",
+    "latitude": 12.9763434422661,
+    "longitude": 77.7264467951472
+  },
+  {
+     "company": "Eduquity Career technologies Pvt Ltd",
+    "address": "No.433, 1st C Main, Behind Hutch Showroom 7th Block Extension, Koramangala, Bangalore 560 095 Karnataka",
+    "latitude": 12.9362893366354,
+    "longitude": 77.613471468686
+  },
+  {
+     "company": "Akamai technologies\nIndia Pvt Ltd",
+    "address": "Salarpuria Ascent #77, Jyothi Nivas College Road Koramangala Industrial Layout Koramangala, Bangalore 560 095",
+    "latitude": 12.9500848790389,
+    "longitude": 77.6428575662804
+  },
+  {
+     "company": "Artech Infosysteams Pvt Ltd",
+    "address": "#50, HIG, KHB Colony, 2nd Floor, 80 Feet Road, Koramangala, Bangalore 560095",
+    "latitude": 12.8501121441897,
+    "longitude": 77.6591447120932
+  },
+  {
+     "company": "Digite Infotech Pvt Ltd",
+    "address": "Digit\u00e9 Inc. 2nd Floor, Essae Chandran Institute, No 410, 100 Feet Road, IV Block Koramangala Bangalore - 560034",
+    "latitude": 12.9389783449897,
+    "longitude": 77.5326036680486
+  },
+  {
+     "company": "e-Infochips Ltd.",
+    "address": "U-347, third floor Raheja Arcade 80 feet road 5th Block, Koramangala Bangalore 560 095",
+    "latitude": 12.938057856683,
+    "longitude": 77.6221602946614
+  },
+  {
+     "company": "Eduquity Career technologies Pvt Ltd",
+    "address": "No.433, 1st C Main, Behind Hutch Showroom 7th Block Extension, Koramangala, Bangalore 560 095 Karnataka",
+    "latitude": 12.9360983898845,
+    "longitude": 77.6128876827158
+  },
+  {
+     "company": "Focus Infosys (India) Pvt. Ltd.",
+    "address": "#72/32, Green Leaf Layout 80 Feet Peripheral Road 4th Block, Koramangala Bengalooru - 560 034 Karnataka",
+    "latitude": 13.0411613972194,
+    "longitude": 80.2581044378736
+  },
+  {
+     "company": "Human Base India Inc.",
+    "address": "Software Development Centre Royal Arcade No.6, 4th Floor, 80 Ft Road Koramangala, 5th Block, Industrial Layout Bangalore 560 095",
+    "latitude": 12.9585021794187,
+    "longitude": 77.6299816253599
+  },
+  {
+     "company": "Impact Solutions (P) Ltd",
+    "address": "228, Rahaeja Arcade, Koramangala, Bangalore 560 095",
+    "latitude": 13.1190460297461,
+    "longitude": 77.4873472522152
+  },
+  {
+     "company": "India Satcom Ltd.",
+    "address": "No. 2, Koramangala Industrial Area Bangalore 560 095",
+    "latitude": 12.9910468305117,
+    "longitude": 77.760860652795
+  },
+  {
+     "company": "Intercope (India) Pvt. Ltd",
+    "address": "111/112, 3rd Cross, 1st Main, 7th Block, Koramangala Bangalore 560 095",
+    "latitude": 12.933277676307,
+    "longitude": 77.6129300103897
+  },
+  {
+     "company": "IntersoftKK (India) Pvt Ltd",
+    "address": "No.38, AVS Compound, 80 ft Road 4th Block, Koramangala, Bangalore-560034",
+    "latitude": 12.9141084036258,
+    "longitude": 77.6445334839276
+  },
+  {
+     "company": "KPMG Advisory Services Private Limited",
+    "address": "KPMG Maruthi Info-tech Centre 11-12/1, Inner Ring Road Koramangala Bangalore 560071",
+    "latitude": 12.9593189796758,
+    "longitude": 77.6397559425832
+  },
+  {
+     "company": "LG Soft India Pvt. Ltd.",
+    "address": "LGSI Cherry Hills Embassy Golf View Links Business Park, Intermediate Ring Road (KormangalaIndiranagar) Bangalore-560 071",
+    "latitude": 12.9360807276561,
+    "longitude": 77.6945956756869
+  },
+  {
+     "company": "Linc Software Services Pvt. Ltd.",
+    "address": "309/1, 1st Cross, Industrial Main Road, 5th Block, Koramangala Bangalore 560 095",
+    "latitude": 12.9976721287809,
+    "longitude": 77.5425065567989
+  },
+  {
+     "company": "Logica",
+    "address": "310/2, 1st Main Road, 5th Block, Koramangala, Bangalore 560 095",
+    "latitude": 12.9948199776068,
+    "longitude": 77.5386594631839
+  },
+  {
+     "company": "Neosoft technologies Pvt Ltd",
+    "address": "# 1, 5th 'A' Block Koramangala, Bangalore - 560 034",
+    "latitude": 12.9363518480049,
+    "longitude": 77.6271916337683
+  },
+  {
+     "company": "Nous Infosystems Pvt Ltd",
+    "address": "#1, 1 Main Road, 1 Block, Koramangala, Bangalore - 560 034",
+    "latitude": 12.9199200261219,
+    "longitude": 77.6501763009269
+  },
+  {
+     "company": "Hcl Infosystems Ltd",
+    "address": "Nimishamba, 4th N Block, 27, Dr Rajkumar Rd, next to Viveks Showroom, Rajajinagar 3rd Block, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+    "latitude": 13.0017081187318,
+    "longitude": ", 77.55162738979143"
+  },
+  {
+     "company": "Flatworld Solutions",
+    "address": "6, Dodda Banaswadi Main Rd, near Pizza Hut, Lakshmamma Layout, Dodda Banaswadi, Bengaluru, Karnataka 560043, India",
+    "latitude": 13.0282642438352,
+    "longitude": 77.6587486437821
+  },
+  {
+     "company": "Saastha Infotech Pvt Ltd",
+    "address": "#6, 8th Main, Friends Colony St Bed, Koramangala Bangalore - 560047 Karnataka",
+    "latitude": 12.9469693696497,
+    "longitude": 77.5742435771174
+  },
+  {
+     "company": "Getafix technologies",
+    "address": "No.88, 5th Block, Koramangala Industrial Area, First Floor, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.9337369595025,
+    "longitude": 77.6156240982582
+  },
+  {
+     "company": "Skelta Software Pvt Ltd",
+    "address": "Skelta Software 80 Ft Road, 4th Block Koramangala, Bangalore 560 034",
+    "latitude": 12.9631783105572,
+    "longitude": 77.7178653773622
+  },
+  {
+     "company": "Syntax Soft-tech India Pvt Ltd",
+    "address": "#147, 3 rd Block 8th Main, Koramangala Bangalore - 560 034",
+    "latitude": 12.9150589716947,
+    "longitude": 77.610182248003
+  },
+  {
+     "company": "tavant technologies\nIndia Pvt Ltd",
+    "address": "No.12, CSRIE-II, Guava Garden, 5th Block, Koramangala, Bangalore 560 095,",
+    "latitude": 12.9375652907533,
+    "longitude": 77.6216747932945
+  },
+  {
+     "company": "thirdware Solution Ltd.",
+    "address": "Appek building - First Floor Large Wing 93/A, 4th B Cross, 5th Block, Industrial Area, Koramangala, Bangalore 560 095",
+    "latitude": 19.1255267488232,
+    "longitude": 72.8751226720046
+  },
+  {
+     "company": "tIBCO Software India Pvt Ltd",
+    "address": "#6, VI Block, 80 Ft. Road Koramangala Bangalore 560 095",
+    "latitude": 12.9274819820359,
+    "longitude": 77.6314576250325
+  },
+  {
+     "company": "tricon Infotech Pvt. Ltd",
+    "address": "319/3, 80 feet Road, 8th Block, Koramangala, Bangalore 560 095",
+    "latitude": 12.9305301652242,
+    "longitude": 77.615197420258
+  },
+  {
+     "company": "triVium iCOPE technologies Pvt Ltd",
+    "address": "111/112, 3rd Cross, 1st Main, 7th Block,Koramangala,\nBangalore 560 095",
+    "latitude": 12.9824321915711,
+    "longitude": 77.6369823224376
+  },
+  {
+     "company": "Broadridge",
+    "address": "114, RahDivyaSree NR Enclave, 1, 1st Main Rd, KIADB Export Promotion Industrial Area, Krishnarajapuram, Bengaluru, Karnataka 560066, Indiaeja Arcade, 1/1, Koramangala Industrial Area, Bangalore 560 095",
+    "latitude": 12.9866232056315,
+    "longitude": 77.7306255883069
+  },
+  {
+     "company": "trigent Software Ltd",
+    "address": "620 80 Feet Road 8th Block Koramangala Bangalore - 560 095",
+    "latitude": 12.9836641728529,
+    "longitude": 77.5856526798198
+  },
+  {
+     "company": "MSI Services Private Limited",
+    "address": "level 4, Dimensions, Jayamahal, 7/19, Palace Cross Rd, Chandavarkar Layout, Military Compound, Vasanth Nagar, Bengaluru, Karnataka 560020, India",
+    "latitude": 13.0159125164756,
+    "longitude": 77.5898028084698
+  },
+  {
+     "company": "INDIQSOFt SOLUtIONS PRIVAtE LIMItED",
+    "address": "4th floor, Saroj Square Silver Springs Road, Munnekollal Main Rd, near Kavery Hospital, Marathahalli, Bengaluru, Karnataka 560037, India",
+    "latitude": 12.9727334722265,
+    "longitude": 77.7143669313463
+  },
+  {
+     "company": "Peutronics Pvt. Ltd",
+    "address": "331-336 Raheja Arcade Koramangala Bangalore \u2013 560095",
+    "latitude": 12.8996280116518,
+    "longitude": 77.6302642657255
+  },
+  {
+     "company": "Health Scribe India (P) Ltd.",
+    "address": "B-202/B-203 Block III KSSIDC Multi Storied Complex Keonics Electronics City Hosur Road Bangalore - 561 229",
+    "latitude": 12.9756297897371,
+    "longitude": 77.6981106975972
+  },
+  {
+     "company": "Honeywell Ltd",
+    "address": "Block III KSSIDC Multi Storied Complex Keonics Electronics City Hosur Road ItC LtdBangalore - 561 229",
+    "latitude": 12.9217604108851,
+    "longitude": 77.6836053108714
+  },
+  {
+     "company": "ItC Ltd",
+    "address": "B-309 Block III KSSIDC Multi Storied Complex Keonics,1Electronics City Hosur\nRoad Bangalore \u2013\n561229",
+    "latitude": 13.0054094166355,
+    "longitude": 77.6249658244395
+  },
+  {
+     "company": "Nuko Information (India) Pvt. Ltd",
+    "address": "B-110 Block III KSSIDC Multi Storied Complex Keonics Electronics City Hosur Road Bangalore - 561 229",
+    "latitude": 12.9896595616909,
+    "longitude": 77.6465848370886
+  },
+  {
+     "company": "SE technology Ltd",
+    "address": "A-205/206 Block III KSSIDC Multi Storied Complex Keonics Electronics City Hosur Road Bangalore 561 229",
+    "latitude": 12.9468350947573,
+    "longitude": 77.5909665495244
+  },
+  {
+     "company": "Sibcomm technology (P) Ltd",
+    "address": "A-308 Block III KSSIDC Multi Storied Complex Keonics Electronics City Hosur Road Bangalore 561 229",
+    "latitude": 12.9360369214511,
+    "longitude": 77.631603862164
+  },
+  {
+     "company": "XSYSYS technologies Pvt Ltd",
+    "address": "92/1A Doddathogur, EC Entrance No.2 / HP Entrance, Electronics City Post, Bangalore - 560 100",
+    "latitude": 13.1498047680869,
+    "longitude": 77.7149406356102
+  },
+  {
+     "company": "Hewlet-Packard GlobalSoft Ltd",
+    "address": "39/40, Electronics City Phase-II Hosur Road Bangalore 560 100",
+    "latitude": 12.8540474796441,
+    "longitude": 77.6602543951527
+  },
+  {
+     "company": "Infosys technologies Ltd.",
+    "address": "Plot No. 44 3rd Cross Electronics City Hosur Road Bangalore \u2013 561229",
+    "latitude": 12.8505261631936,
+    "longitude": 77.6640206202928
+  },
+  {
+     "company": "Omnesys technologies Pvt Ltd",
+    "address": "Omnesys House, No. 55/B, 1st Main Road, Electronic City, Hosur Road, Bangalore-560 100, NDIA",
+    "latitude": 12.8455163049252,
+    "longitude": 77.6651475951486
+  },
+  {
+     "company": "InKnowtech Private Limited",
+    "address": "# A-306, StPI Complex, Electronic City, Hosur Road, Bangalore 560 100",
+    "latitude": 12.834955033356,
+    "longitude": 77.6609172743669
+  },
+  {
+     "company": "Infosys technologies Ltd",
+    "address": "44&97-A, 3rd Cross, Electronic City, Hosur Road, Bangalore 561 229",
+    "latitude": 12.8470948499999,
+    "longitude": 77.6775381000145
+  },
+  {
+     "company": "CGI Information Systems and Management Consultants Pvt Ltd",
+    "address": "#38/1, Naganathapura, Electronic City Post Bangalore, India 560 100",
+    "latitude": 12.8444093731629,
+    "longitude": 77.666080440541
+  },
+  {
+     "company": "Wipro Infotech Group",
+    "address": "88 MG Road Bangalore \u2013 560001",
+    "latitude": 12.9689180688929,
+    "longitude": 77.5964632896021
+  },
+  {
+     "company": "Dell Computer India Pvt Ltd",
+    "address": "4th Floor, West Wing 404, Raheja towers M G Road Bangalore560001",
+    "latitude": 12.9437103239892,
+    "longitude": 77.6295297713786
+  },
+  {
+     "company": "Canbank Computer Services Ltd.",
+    "address": "(A subsidiary of Canara Bank) 7th Floor, Naveena Complex, MG Road, Bangalore 560 001.",
+    "latitude": 12.9313298492087,
+    "longitude": 77.5802200395797
+  },
+  {
+     "company": "MNC Global Solutions",
+    "address": "lavanya store, 3, kengala Nursery, tavarekere Main Rd, near to MGS, Bengaluru, Karnataka 560029, India",
+    "latitude": 12.9303813372323,
+    "longitude": 77.6177652181992
+  },
+  {
+     "company": "Hexaware technologies Limited",
+    "address": "Shanthiniketan, 11th Floor, Crescent - 2 Prestige, Whitefield Main Rd, Mahadevapura, Bengaluru, Karnataka 560048, India",
+    "latitude": 13.0055182015205,
+    "longitude": 77.7329063605344
+  },
+  {
+     "company": "Venesco Corp",
+    "address": "Manyata tech Park 1 Canteen, Ground Floor, Beech, E-1, Manyata Embassy Business Park,, Outer Ring Road, Nagawara, Bengaluru, Karnataka 560045, India",
+    "latitude": 13.055489882254,
+    "longitude": 77.6360810368776
+  },
+  {
+     "company": "tech minds",
+    "address": "Old Nr: 74 New Nr: 20-2,Keshava Krupa Building 1st Floor, 30th cross, 10th Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+    "latitude": 12.945480398454,
+    "longitude": 77.5767821345365
+  },
+  {
+     "company": "VN2 Solutions Pvt. Ltd.",
+    "address": "Suite 3, 6th Floor, Gamma Block, Sigma Soft tech Park, Whitefield Main Rd, Varthur Kodi, AECS Layout - A Block, AECS Layout, Brookefield, Bengaluru, Karnataka 560066, India",
+    "latitude": 12.9780863765828,
+    "longitude": 77.7040672484641
+  },
+  {
+     "company": "Deltek | Replicon",
+    "address": "2nd Floor, Wing \u2013 B, Khata No. 137, Survey No. 92/5 Salarpuria Supreme Outer Ring Road Munnekolalu Village, Varthur Hobli, South, taluk, beside Innovative Multiplex, Marathahalli, Bengaluru, Karnataka 560037, India",
+    "latitude": 12.9620273179315,
+    "longitude": 77.7013206663621
+  },
+  {
+     "company": "Embitel technologies - A Volkswagen Group Company",
+    "address": "Sigma Soft tech Park, 208 to 216, Whitefield Main Rd, Varthur Kodi, Palm Meadows, Ramagondanahalli, Whitefield, Bengaluru, Karnataka 560066, India",
+    "latitude": 12.9700569768422,
+    "longitude": 77.7404594613148
+  },
+  {
+     "company": "Ecospace",
+    "address": "Outer Ring Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+    "latitude": "12.940613628251267,",
+    "longitude": 77.682781237174
+  },
+  {
+     "company": "WANKYS - Website Development Company in Bangalore | 16+ Years, 500+ Clients | Digital Marketing",
+    "address": "6th Floor, Gamma Block, Sigma Soft tech Park, Varthur Kodi, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066, India",
+    "latitude": 12.9727334722265,
+    "longitude": 77.7473259165696
+  },
+  {
+     "company": "Global GDS",
+    "address": "No.20, 9th Cross Rd, ItI Layout, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "latitude": 12.9281967426428,
+    "longitude": 77.5777632987404
+  },
+  {
+     "company": "Global Calcium Pvt. Ltd.",
+    "address": "Global Calcium Private Limited, 882, 6th Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+    "latitude": 12.9548991542184,
+    "longitude": 77.6204438442659
+  },
+  {
+     "company": "Novatek International",
+    "address": "221 1st Floor, 7th Main, II Block, 3rd A Cross Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+    "latitude": 13.0349591759588,
+    "longitude": 77.6439825718934
+  },
+  {
+     "company": "Spurtree technologies",
+    "address": "2004, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+    "latitude": 12.9782010131586,
+    "longitude": 77.6415251808424
+  },
+  {
+     "company": "MSI Services Private Limited",
+    "address": "level 4, Dimensions, Jayamahal, 7/19, Palace Cross Rd, Chandavarkar Layout, Military Compound, Vasanth Nagar, Bengaluru, Karnataka 560020, India",
+    "latitude": 13.0159125164756,
+    "longitude": 77.5904894539953
+  },
+  {
+     "company": "Flex India",
+    "address": "S. No. 70-A, SVR Fortune, Electronic City Phase I, near Coffee Day, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+    "latitude": 12.8609653562268,
+    "longitude": 77.6580619982566
+  },
+  {
+     "company": "HARSIRLA tECHNOLOGIES PVt LtD",
+    "address": "3rd Floor, Land Mark, 28, Hosur Rd, next to Prashanth Hospital, Bommanahalli, Bengaluru, Karnataka 560068, India",
+    "latitude": 12.9144915481103,
+    "longitude": 77.6265400442659
+  },
+  {
+     "company": "Continental Automotive Components (India) Pvt. Ltd.",
+    "address": "18,19& 20, Veerasandra Industrial Area, Ground, 2nd - 14th Floor, Southgate tech Park, Plot No. 1, Sy No. 17, Hosur Rd, Electronic City, Bengaluru, Karnataka 560100, India",
+    "latitude": 12.8589570892019,
+    "longitude": 77.6834678826995
+  },
+  {
+     "company": "AMMSON",
+    "address": "Unit No 2201, 22nd Floor, World trade Centre Brigade Gateway Campus, Rajajinagar Extn Malleshwaram( W, Bengaluru, Karnataka 560055, India",
+    "latitude": 13.0254993081699,
+    "longitude": 77.5580469174188
+  },
+  {
+     "company": "CrimsonLogic India Pvt. Ltd",
+    "address": "7th floor, Brigade summit, unit A-701, ItPL Main Rd, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+    "latitude": 13.0041801340409,
+    "longitude": 77.6999473753111
+  },
+  {
+     "company": "MNC Elevator",
+    "address": "No. 774, RK Nilaya, 2nd floor, 1st Main, 4th Cross Rd, ItI Layout, Bengaluru, Karnataka 560068, India",
+    "latitude": 12.9062035475682,
+    "longitude": 77.6471821271482
+  },
+  {
+     "company": "Ibbhan technology Private Limited",
+    "address": "#59/1 L R BUNDE Road,. Kavalbyrasandra, R t Nagar(PO), Banglore, Karnataka 560032, India",
+    "latitude": 12.9800030378518,
+    "longitude": 77.5936890353169
+  },
+  {
+     "company": "Algonomy Software Private Limited (previously Manthan-RichRelevance)",
+    "address": "40/4, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "latitude": 12.993764187815,
+    "longitude": 77.6034073539952
+  },
+  {
+     "company": "NEC Corporation India",
+    "address": "Floor 5th, Subramanya Arcade tower-C, IBC KNOWLEDGE PARK, 4/1, Bannerghata Rd, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",
+    "latitude": 12.9455489969925,
+    "longitude": 77.6059869084698
+  },
+  {
+     "company": "Accenture BDC4C",
+    "address": "Block-14a, tower 15, Pritech Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+    "latitude": 12.9392752115532,
+    "longitude": 77.6807213005976
+  },
+  {
+     "company": "Parametric technology India Private Limited",
+    "address": "Level 6, Nitesh times Square, No 8, MG Road, Yellappa Garden, Yellappa Chety Layout, Sivancheti Gardens, Bengaluru, Karnataka 560001, India",
+    "latitude": 12.986233602164,
+    "longitude": 77.6291613003011
+  },
+  {
+     "company": "Embright Infotech Private Limited - VR Company Bangalore",
+    "address": "3rd Floor, Nasscom COE IOt Kionics building, behind HSR police Station, HSR Layout, Bengaluru, Karnataka 560021, India",
+    "latitude": 12.9338891508161,
+    "longitude": ", 77.64600766216402"
+  },
+  {
+     "company": "ItSAD technologies",
+    "address": "162, 14th Cross, 9th Main Rd, 6th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+    "latitude": 12.9275445909415,
+    "longitude": 77.6317812532149
+  },
+  {
+     "company": "Cadence Design Systems India Pvt Ltd",
+    "address": "RMZ Ecoworld Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+    "latitude": "12.93258302032777, ",
+    "longitude": 77.684154528225
+  },
+  {
+     "company": "Hexagon Manufacturing Intelligence | Bengaluru",
+    "address": "G05, Brigade Rubix, 20, Watch Factory Rd, Phase 1, Peenya, Bengaluru, Karnataka 560022, India",
+    "latitude": 13.055494475941,
+    "longitude": 77.5362142263678
+  },
+  {
+     "company": "KMF technologies",
+    "address": "6th floor, Metro Station Jayanagar, near Jayanagar 4th block bus station, 4th Block, Jayanagar, Bengaluru, Karnataka 560068, India",
+    "latitude": 12.9461367547115,
+    "longitude": 77.5874356905717
+  },
+  {
+     "company": "Marlabs Innovations Pvt. Ltd.",
+    "address": "Wing-1, Block -B 7th Floor, Sadaramangala, Primeco Union City, Whitefield Main Rd, Sadara Mangala Industrial Area, Industrial Area, Krishnarajapuram, Bengaluru, Karnataka 560067, India",
+    "latitude": 13.0035110975947,
+    "longitude": 77.7383995247383
+  },
+  {
+     "company": "temenos India Pvt Ltd",
+    "address": "11th Floor, IBC Knowledge Park Block C & D 3rd &, 4/1, Bannerghata Rd, near Dairy circle, Bengaluru, Karnataka 560029, India",
+    "latitude": 12.9431954238462,
+    "longitude": 77.6010533442659
+  },
+  {
+     "company": "ACL Digital",
+    "address": "IBC Knowledge Park, tower D, 4/1, Bannerghata Rd, S.G. Palya, Bengaluru, Karnataka 560029, India",
+    "latitude": 12.9474509750576,
+    "longitude": 77.6038409263678
+  },
+  {
+     "company": "Hinduja Global Solutions",
+    "address": "Park, #690, Gold Hill Square, Hosur Rd, Popular Colony, Bommanahalli, Bengaluru, Karnataka 560068, India",
+    "latitude": 12.9172945629165,
+    "longitude": 77.6358962084698
+  },
+  {
+     "company": "Sun Pharmaceutical Industries Limited",
+    "address": "2HPR+J5M, Dipak Rd, Vinayakanagar, Hebbal, Bengaluru, Karnataka 560024, India",
+    "latitude": 13.0519609272513,
+    "longitude": 77.5907533263678
+  },
+  {
+     "company": "ItC Infotech India Ltd.",
+    "address": "No.18, Gate No:1 & 2, Dodda Banaswadi Main Rd, Maruthi Sevanagar, Bengaluru, Karnataka 560005, India",
+    "latitude": 13.0172904124054,
+    "longitude": 77.6241376353169
+  },
+  {
+     "company": "IBeON INFOtECH PVt LtD - BESt It SUPPORt COMPANY IN BANGALORE",
+    "address": "8/1, 1st floor, 1st A cross, 24th main, JP Nagar 2nd phase, Bengaluru, Karnataka 560078, India",
+    "latitude": 12.9252226454575,
+    "longitude": 77.579513871113
+  },
+  {
+     "company": "tCS",
+    "address": "L-Center, Vydehi RC-1 Block, EPIP Industrial Area, 82, 6th Rd, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka 560066, India",
+    "latitude": 12.9881227615729,
+    "longitude": 77.729473132907
+  },
+  {
+     "company": "International tech Park Bangalore (ItPB)",
+    "address": "ItPL Main Rd, Patandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India",
+    "latitude": 12.9934753344572,
+    "longitude": 77.7342796515854
+  },
+  {
+     "company": "CGI",
+    "address": "Divyasree technopolis 124-125, Yemalur Main Rd, off HAL Old Airport Road, Yemalur, P.O, Bengaluru, Karnataka 560037, India",
+    "latitude": 12.9566740680813,
+    "longitude": 77.6917076290053
+  },
+  {
+     "company": "IBM India Private Limited G2 Block",
+    "address": "2JXC+5XM Embassy Manyata Business Park, Manyata tech Park Rd, Manayata tech Park, thanisandra, Bengaluru, Karnataka 560045, India",
+    "latitude": 13.0613351838053,
+    "longitude": 77.617269162164
+  },
+  {
+     "company": "Manhatan Associates India Development Center",
+    "address": "XP79+QHC, Kundalahalli, Brookefield, Bengaluru, Karnataka 560037, India",
+    "latitude": 12.9713952281343,
+    "longitude": 77.7260399052796
+  },
+  {
+     "company": "Continental Automotive Components (India) Pvt. Ltd.",
+    "address": "18,19& 20, Veerasandra Industrial Area, Ground, 2nd - 14th Floor, Southgate tech Park, Plot No. 1, Sy No. 17, Hosur Rd, Electronic City, Bengaluru, Karnataka 560100, India",
+    "latitude": 12.8482460604074,
+    "longitude": 77.6834678826995
+  },
+  {
+     "company": "Hinduja Global Solutions",
+    "address": "Park, #690, Gold Hill Square, Hosur Rd, Popular Colony, Bommanahalli, Bengaluru, Karnataka 560068, India",
+    "latitude": 12.9126096354305,
+    "longitude": 77.6358962084698
+  },
+  {
+     "company": "Hewlet Packard Enterprise (HPE) : Bengaluru India",
+    "address": "Konappana Agrahara, Electronic City, Bengaluru, Karnataka 560100, India",
+    "latitude": 12.8683288644687,
+    "longitude": 77.661495225884
+  },
+  {
+     "company": "ItC Infotech India Ltd.",
+    "address": "No.18, Gate No:1 & 2, Dodda Banaswadi Main Rd, Maruthi Sevanagar, Bengaluru, Karnataka 560005, India",
+    "latitude": 13.0253182844188,
+    "longitude": 77.6145248969603
+  }
+]
